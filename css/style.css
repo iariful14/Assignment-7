@@ -6,7 +6,8 @@
 header {
 	background:url(../img/background.png);
 	background-repeat: no-repeat;
-	background-size: contain;
+	width: 100%;
+	background-size: cover;
 }
 
 .container {
